@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "双刀妹（团子）.moc3",
+		"Textures": [
+			"双刀妹（团子）.2048/texture_00.png"
+		],
+		"Physics": "双刀妹（团子）.physics3.json",
+		"DisplayInfo": "双刀妹（团子）.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
